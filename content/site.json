@@ -1,0 +1,40 @@
+{
+  "name": "dressed & nested",
+  "url": "https://dressedandnested.de",
+  "description": "Interior- und Fashion-Ideen zum Merken, Nachstylen und Shoppen. Jeder Look mit Einkaufsliste.",
+  "language": "de",
+  "pinterest_profile": "https://www.pinterest.com/",
+  "instagram_profile": "https://www.instagram.com/",
+  "pinterest_domain_verify": "",
+  "boards": {
+    "wohnzimmer": "Wohnzimmer",
+    "schlafzimmer": "Schlafzimmer",
+    "licht": "Licht & Lampen",
+    "deko": "Deko & DIY",
+    "outfits": "Outfits",
+    "capsule": "Capsule Wardrobe",
+    "accessoires": "Accessoires"
+  },
+  "board_of_the_week": {
+    "title": "Recent Favorites",
+    "color": "braun",
+    "posts": [
+      "recent-favorites-leder-und-buttergelb",
+      "recent-finds-animal-print",
+      "recent-favorites-sunny-winter-day"
+    ]
+  },
+  "quotes": [
+    {
+      "after": 2,
+      "text": "Ein Raum braucht eine Farbe, die sich traut.",
+      "by": "Wohnregel Nr. 1",
+      "style": "braun"
+    }
+  ],
+  "author": {
+    "name": "Nina",
+    "bio": "Hier sammle ich Outfits und Wohnideen, die ich gerade selbst liebe, und verrate dir, wo du die Teile findest. Mein Zuhause und mein Kleiderschrank folgen denselben Farben: viel Braun, ein bisschen Hellblau, nie zu viel.",
+    "photo": ""
+  }
+}
